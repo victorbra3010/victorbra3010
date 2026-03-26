@@ -5,8 +5,12 @@
 ![alt text](b8a4a28b-3bef-4567-95ee-b7f380b52966.png)
 
 <center><h2>  Contatos </h2></center>
-<center>
 
+
+
+
+
+<p align="center">
 <a href="https://www.linkedin.com/in/victor-roosevelt-12543036a">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" width="50">
 <a href="https://wa.me/5561996467550">
@@ -15,13 +19,16 @@
 <a href="mailto:victorbra3010@gmail.com">
   <img src="image-14.png" width="50" alt="Email">
 </a>
+</p>
 
----------------------
 
+-------------------
 
 <div>
   <img src="gif-for-presentation-96.gif" width="150" align="left">
 </div>
+
+
 
 
  **Oi!**
