@@ -1,10 +1,10 @@
 
-<center><h2>  Bem-vindos👋 </h2></center>
+<center><h2>Bem-vindos👋</h2></center>
 
 
 ![alt text](b8a4a28b-3bef-4567-95ee-b7f380b52966.png)
 
-<center><h2>  Contatos </h2></center>
+<center><h2>Contatos</h2></center>
 
 
 
